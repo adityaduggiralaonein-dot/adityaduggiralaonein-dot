@@ -1,17 +1,18 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Aditya+%F0%9F%91%8B;AI+%26+Full-Stack+App+Builder;Hackathon+Enthusiast+%F0%9F%9A%80;Building+for+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Aditya!+%F0%9F%91%8B;AI+%26+Full-Stack+App+Builder+%F0%9F%9A%80;Hackathon+Enthusiast+%F0%9F%8F%86;Building+for+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-d-aa4635411/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iaditya_offical)
+[![X](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iaditya_offical)
 [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pin.it/1EYHC2HvQ)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityaduggiralaonein-dot)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=adityaduggiralaonein-dot&label=Profile+Views&color=6E40C9&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/adityaduggiralaonein-dot?style=for-the-badge&color=6E40C9&labelColor=1a1b27)
 
 </div>
 
@@ -23,48 +24,38 @@
 aditya = {
     "location"    : "Hyderabad, India 🇮🇳",
     "role"        : "AI-Powered App Builder & Hackathon Enthusiast",
-    "building_now": "BeyondHuman — AI fitness & health platform",
+    "building_now": "BeyondHuman — AI fitness & health platform 💪",
     "shipped"     : [
-        "Bettle       → Social platform for past communities (school/college/work)",
+        "Bettle       → Social platform to reconnect with school/college/work",
         "Nirogi AI    → Free preventive healthcare platform w/ 12 AI tools",
         "Spectre      → AI crime analytics for Karnataka State Police",
         "Static       → India EV & fuel trip planner",
         "HyperMart    → AI-powered ecommerce platform",
-        "RemixMusicAI → AI music generation & remixing",
-        "DaVinci      → AI image generation canvas",
+        "RemixMusicAI → AI music generation & remixing studio",
+        "DaVinci      → AI image generation & creative canvas",
     ],
-    "stack"       : ["React", "Lovable", "Claude API", "Supabase", "Node.js"],
+    "stack"       : ["React", "Lovable", "Claude API", "Supabase", "TypeScript"],
     "interests"   : ["Consumer Tech", "Civic AI", "Healthcare", "Fitness", "Music"],
     "ask_me"      : ["AI Products", "Hackathons", "India-market apps", "Lovable.dev"],
 }
 ```
 
-- 🧠 Solo builder shipping AI apps fast with **Lovable** + **Claude API**
-- 🏥 **Nirogi AI** — 12-tool preventive healthcare platform for India
-- 🚔 **Spectre** — Crime intelligence dashboard for Karnataka State Police (KSP Datathon 2026)
-- 🛒 **HyperMart** — Full AI-powered ecommerce experience
-- 🎵 **RemixMusicAI** — AI music generation & remixing studio
-- 🎨 **DaVinci Canvas AI** — AI image generation & editing canvas
-- ⚡ **Static** — Multi-stop EV & fuel trip planner for India
-- 🐞 **Bettle** — The social app to reconnect with your past (schools, colleges, workplaces)
-- 💪 **BeyondHuman** *(in progress)* — AI fitness & health coaching platform
-
 ---
 
-## 🚀 Featured Projects
+## 🚀 Live Projects
 
 <div align="center">
 
-| 🔗 Live | Project | What it does |
-|--------|---------|-------------|
-| [beyondhuman-healthai.lovable.app](https://beyondhuman-healthai.lovable.app) | 💪 **BeyondHuman Health AI** | AI fitness & health coaching — *currently building* |
-| [hypermart.lovable.app](https://hypermart.lovable.app) | 🛒 **HyperMart** | AI-powered ecommerce platform |
-| [remixmusicai.lovable.app](https://remixmusicai.lovable.app) | 🎵 **RemixMusicAI** | AI music generation & remixing studio |
-| [davinci-canvasai.lovable.app](https://davinci-canvasai.lovable.app) | 🎨 **DaVinci Canvas AI** | AI image generation & creative canvas |
-| *(Lovable)* | 🐞 **Bettle** | Social reconnect platform — schools, colleges, workplaces |
-| *(Lovable)* | 🏥 **Nirogi AI** | Free preventive healthcare with 12 AI tools |
-| *(Lovable)* | 🚔 **Spectre** | AI crime analytics — KSP Datathon 2026 |
-| *(Lovable)* | ⚡ **Static** | India EV & fuel trip planner |
+| | Project | Description | Status |
+|--|---------|-------------|--------|
+| 💪 | [**BeyondHuman Health AI**](https://beyondhuman-healthai.lovable.app) | AI fitness & health coaching platform | 🔨 Building |
+| 🛒 | [**HyperMart**](https://hypermart.lovable.app) | AI-powered ecommerce platform | ✅ Live |
+| 🎵 | [**RemixMusicAI**](https://remixmusicai.lovable.app) | AI music generation & remixing studio | ✅ Live |
+| 🎨 | [**DaVinci Canvas AI**](https://davinci-canvasai.lovable.app) | AI image generation & creative canvas | ✅ Live |
+| 🐞 | [**Bettle**](https://bettle-creativeai.lovable.app) | Social reconnect app — schools, colleges, workplaces | ✅ Live |
+| 🏥 | [**Nirogi AI**](https://nirogi-healthai.lovable.app) | 12-tool preventive healthcare platform for India | ✅ Live |
+| 🚔 | [**Spectre**](https://spectre-crimeai.lovable.app) | AI crime analytics — KSP Datathon 2026 | ✅ Live |
+| ⚡ | [**Static**](https://static-chargepoint.lovable.app) | India EV & fuel trip planner | ✅ Live |
 
 </div>
 
@@ -79,7 +70,6 @@ aditya = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 **Backend & Database**
@@ -100,33 +90,27 @@ aditya = {
 ![Lovable](https://img.shields.io/badge/Lovable.dev-FF6B6B?style=for-the-badge&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-> ⚠️ **Stats will populate once the profile repo is set up and you start committing.** Replace `adityaduggiralaonein-dot` below with your username if it ever changes.
-
 <div align="center">
 
-<a href="https://github.com/adityaduggiralaonein-dot">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityaduggiralaonein-dot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-</a>
-<a href="https://github.com/adityaduggiralaonein-dot">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaduggiralaonein-dot&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityaduggiralaonein-dot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=400" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaduggiralaonein-dot&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" />
 
 </div>
 
 <div align="center">
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=adityaduggiralaonein-dot&theme=tokyonight&hide_border=true" />
-</a>
+<img src="https://streak-stats.demolab.com?user=adityaduggiralaonein-dot&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 </div>
+
+> 💡 **Stats not showing?** Make sure your profile repo (`adityaduggiralaonein-dot/adityaduggiralaonein-dot`) is **public** and has at least one commit pushed.
 
 ---
 
@@ -134,17 +118,15 @@ aditya = {
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityaduggiralaonein-dot&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=adityaduggiralaonein-dot&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 
 </div>
+
+> 💡 **Trophies not showing?** They populate once you have commits, stars, PRs, or followers on GitHub.
 
 ---
 
 ## 🐍 Contribution Snake
-
-> The snake auto-generates every 12 hours once you add the GitHub Action below.
 
 <div align="center">
 
@@ -159,13 +141,58 @@ aditya = {
 
 </div>
 
+> 💡 **Snake not showing?** Add `.github/workflows/snake.yml` to this repo (see below), go to **Actions → Generate Snake → Run workflow**. It creates the `output` branch automatically.
+
+<details>
+<summary>📋 Click to copy <code>snake.yml</code></summary>
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+**Setup steps:**
+1. Create `.github/workflows/snake.yml` in this repo and paste the above
+2. Go to **Settings → Actions → General → Workflow permissions** → set **Read and write** → Save
+3. Go to **Actions tab → "Generate Snake Animation" → Run workflow**
+4. Done ✅ — the snake SVG will appear in ~30 seconds
+
+</details>
+
 ---
 
 ## 📈 Activity Graph
 
 <div align="center">
 
-[![Aditya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityaduggiralaonein-dot&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityaduggiralaonein-dot&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -173,11 +200,16 @@ aditya = {
 
 <div align="center">
 
-### 💬 Let's connect and build something great for India 🇮🇳
+### 💬 Let's connect and build something for India 🇮🇳
 
 *"Ship fast. Learn faster. Build for real people."*
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-d-aa4635411/)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-d-aa4635411/)
+[![X](https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iaditya_offical)
 
 </div>
+
+
 
