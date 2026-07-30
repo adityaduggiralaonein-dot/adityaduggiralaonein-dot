@@ -137,44 +137,6 @@ aditya = {
 
 </div>
 
-<details>
-<summary>⚙️ Setup snake animation — click to expand</summary>
-
-Create `.github/workflows/snake.yml` in this repo:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then: **Settings → Actions → General → Read and write permissions → Save**, then **Actions tab → Generate Snake Animation → Run workflow**.
 
 </details>
 
