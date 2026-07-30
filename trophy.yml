@@ -2,8 +2,8 @@ name: Generate Trophy
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # once a day
-  workflow_dispatch:        # allow manual run
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   trophy:
@@ -17,7 +17,8 @@ jobs:
       - name: Generate Trophy
         uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
-options: "username=adityaduggiralaonein-dot&theme=tokyonight&column=7&margin-w=8&title=-Reviews"          path: dist/trophy.svg
+          options: "username=adityaduggiralaonein-dot&theme=tokyonight&column=7&margin-w=8&title=-Reviews"
+          path: dist/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to output branch
