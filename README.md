@@ -116,7 +116,7 @@ aditya = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=adityaduggiralaonein-dot&theme=tokyonight&column=7&margin-w=8" />
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=adityaduggiralaonein-dot&theme=tokyonight&column=7&margin-w=8" />
 
 </div>
 
