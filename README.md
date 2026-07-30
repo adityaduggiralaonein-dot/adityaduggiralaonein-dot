@@ -12,7 +12,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=adityaduggiralaonein-dot&label=Profile+Views&color=6E40C9&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/adityaduggiralaonein-dot?style=for-the-badge&color=6E40C9&labelColor=1a1b27)
+![GitHub followers](https://img.shields.io/github/followers/adityaduggiralaonein-dot?style=for-the-badge&color=6E40C9&labelColor=1a1b27&label=Followers)
 
 </div>
 
@@ -98,19 +98,17 @@ aditya = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityaduggiralaonein-dot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=400" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=adityaduggiralaonein-dot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaduggiralaonein-dot&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=adityaduggiralaonein-dot&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=adityaduggiralaonein-dot&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=adityaduggiralaonein-dot&theme=tokyonight&hide_border=true" />
 
 </div>
-
-> 💡 **Stats not showing?** Make sure your profile repo (`adityaduggiralaonein-dot/adityaduggiralaonein-dot`) is **public** and has at least one commit pushed.
 
 ---
 
@@ -121,8 +119,6 @@ aditya = {
 <img src="https://github-profile-trophy.vercel.app/?username=adityaduggiralaonein-dot&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 
 </div>
-
-> 💡 **Trophies not showing?** They populate once you have commits, stars, PRs, or followers on GitHub.
 
 ---
 
@@ -141,10 +137,10 @@ aditya = {
 
 </div>
 
-> 💡 **Snake not showing?** Add `.github/workflows/snake.yml` to this repo (see below), go to **Actions → Generate Snake → Run workflow**. It creates the `output` branch automatically.
-
 <details>
-<summary>📋 Click to copy <code>snake.yml</code></summary>
+<summary>⚙️ Setup snake animation — click to expand</summary>
+
+Create `.github/workflows/snake.yml` in this repo:
 
 ```yaml
 name: Generate Snake Animation
@@ -178,11 +174,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-**Setup steps:**
-1. Create `.github/workflows/snake.yml` in this repo and paste the above
-2. Go to **Settings → Actions → General → Workflow permissions** → set **Read and write** → Save
-3. Go to **Actions tab → "Generate Snake Animation" → Run workflow**
-4. Done ✅ — the snake SVG will appear in ~30 seconds
+Then: **Settings → Actions → General → Read and write permissions → Save**, then **Actions tab → Generate Snake Animation → Run workflow**.
 
 </details>
 
@@ -210,6 +202,3 @@ jobs:
 [![X](https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iaditya_offical)
 
 </div>
-
-
-
