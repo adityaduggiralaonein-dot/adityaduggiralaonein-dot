@@ -116,10 +116,9 @@ aditya = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=adityaduggiralaonein-dot&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img src="https://raw.githubusercontent.com/adityaduggiralaonein-dot/adityaduggiralaonein-dot/output/trophy.svg" alt="GitHub Trophies" />
 
 </div>
-
 ---
 
 ## 🐍 Contribution Snake
