@@ -1,51 +1,47 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=28&pause=1200&color=9B6DE0&center=true&vCenter=true&width=750&lines=domain_expansion(%22Infinite+Void%22);AI+%26+Full-Stack+App+Builder+%F0%9F%9A%80;Shipping+Cursed+Tools+for+India+%F0%9F%87%AE%F0%9F%87%B3;while(alive)%3A+ship_more_apps()" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=7B4FD4&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Aditya!+%F0%9F%91%8B;AI+%26+Full-Stack+App+Builder+%F0%9F%9A%80;Special+Grade+%E2%80%94+Builder+%E5%91%AA;Building+for+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0514?style=for-the-badge&logo=linkedin&logoColor=9b6de0)](https://www.linkedin.com/in/aditya-d-aa4635411/)
-[![X](https://img.shields.io/badge/X_(Twitter)-0a0514?style=for-the-badge&logo=x&logoColor=9b6de0)](https://x.com/iaditya_offical)
-[![Pinterest](https://img.shields.io/badge/Pinterest-0a0514?style=for-the-badge&logo=pinterest&logoColor=9b6de0)](https://pin.it/1EYHC2HvQ)
-[![GitHub](https://img.shields.io/badge/GitHub-0a0514?style=for-the-badge&logo=github&logoColor=9b6de0)](https://github.com/adityaduggiralaonein-dot)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/aditya-d-aa4635411/)
+[![X](https://img.shields.io/badge/X_(Twitter)-0d1117?style=for-the-badge&logo=x&logoColor=c9d1d9)](https://x.com/iaditya_offical)
+[![Pinterest](https://img.shields.io/badge/Pinterest-0d1117?style=for-the-badge&logo=pinterest&logoColor=f85149)](https://pin.it/1EYHC2HvQ)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=b388ff)](https://github.com/adityaduggiralaonein-dot)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=adityaduggiralaonein-dot&label=Cursed+Energy+Detected&color=9b6de0&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=adityaduggiralaonein-dot&label=Profile+Views&color=7b4fd4&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/adityaduggiralaonein-dot?style=for-the-badge&color=7b4fd4&labelColor=161b22&label=Followers)
 
 </div>
 
 ---
 
-<div align="center">
-<h3>〔 術式展開 〕 About Me</h3>
-</div>
+## 👨‍💻 // about_me 式
 
 ```python
-sorcerer = {
-    "name"        : "Aditya",
-    "grade"       : "Special Grade — AI App Builder",
+aditya = {
     "location"    : "Hyderabad, India 🇮🇳",
-    "domain"      : "Lovable.dev × Claude API × Supabase",
-    "cursed_tools": [
-        "BeyondHuman  → AI fitness & health platform 💪 [building]",
-        "HyperMart    → AI-powered ecommerce platform 🛒",
-        "RemixMusicAI → AI music generation studio 🎵",
-        "DaVinci      → AI image generation canvas 🎨",
-        "Bettle       → Social reconnect platform 🐞",
-        "Nirogi AI    → 12-tool preventive healthcare 🏥",
-        "Spectre      → AI crime analytics for KSP 🚔",
-        "Static       → India EV & fuel trip planner ⚡",
+    "grade"       : "Special Grade — AI App Builder 呪",
+    "building_now": "BeyondHuman — AI fitness & health platform 💪",
+    "shipped"     : [
+        "Bettle       → Social platform to reconnect with school/college/work",
+        "Nirogi AI    → Free preventive healthcare platform w/ 12 AI tools",
+        "Spectre      → AI crime analytics for Karnataka State Police",
+        "Static       → India EV & fuel trip planner",
+        "HyperMart    → AI-powered ecommerce platform",
+        "RemixMusicAI → AI music generation & remixing studio",
+        "DaVinci      → AI image generation & creative canvas",
     ],
+    "stack"       : ["React", "Lovable", "Claude API", "Supabase", "TypeScript"],
     "binding_vow" : "Ship fast. Learn faster. Build for real people.",
 }
 ```
 
 ---
 
-<div align="center">
-<h3>〔 式神 〕 Live Cursed Tools</h3>
-</div>
+## 🚀 // live_projects 縛
 
 <div align="center">
 
@@ -56,7 +52,7 @@ sorcerer = {
 | 🎵 | [**RemixMusicAI**](https://remixmusicai.lovable.app) | AI music generation & remixing studio | ✅ Live |
 | 🎨 | [**DaVinci Canvas AI**](https://davinci-canvasai.lovable.app) | AI image generation & creative canvas | ✅ Live |
 | 🐞 | [**Bettle**](https://bettle-creativeai.lovable.app) | Social reconnect — schools, colleges, workplaces | ✅ Live |
-| 🏥 | [**Nirogi AI**](https://nirogi-healthai.lovable.app) | 12-tool preventive healthcare platform for India | ✅ Live |
+| 🏥 | [**Nirogi AI**](https://nirogi-healthai.lovable.app) | 12-tool preventive healthcare for India | ✅ Live |
 | 🚔 | [**Spectre**](https://spectre-crimeai.lovable.app) | AI crime analytics — KSP Datathon 2026 | ✅ Live |
 | ⚡ | [**Static**](https://static-chargepoint.lovable.app) | India EV & fuel trip planner | ✅ Live |
 
@@ -64,76 +60,68 @@ sorcerer = {
 
 ---
 
-<div align="center">
-<h3>〔 呪術 〕 Tech Stack</h3>
-</div>
+## 🛠️ // tech_stack 呪
 
-**Innate Technique — Frontend**
+**Frontend**
 
-![React](https://img.shields.io/badge/React-0a0514?style=for-the-badge&logo=react&logoColor=9b6de0)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0514?style=for-the-badge&logo=typescript&logoColor=9b6de0)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0514?style=for-the-badge&logo=javascript&logoColor=c9a0ff)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0a0514?style=for-the-badge&logo=tailwind-css&logoColor=9b6de0)
-![HTML5](https://img.shields.io/badge/HTML5-0a0514?style=for-the-badge&logo=html5&logoColor=9b6de0)
-![Vite](https://img.shields.io/badge/Vite-0a0514?style=for-the-badge&logo=vite&logoColor=c9a0ff)
+![React](https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=58a6ff)
+![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=7b4fd4)
+![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=d29922)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-161b22?style=for-the-badge&logo=tailwind-css&logoColor=58a6ff)
+![HTML5](https://img.shields.io/badge/HTML5-161b22?style=for-the-badge&logo=html5&logoColor=f85149)
+![Vite](https://img.shields.io/badge/Vite-161b22?style=for-the-badge&logo=vite&logoColor=b388ff)
 
-**Cursed Reverse Technique — Backend**
+**Backend & Database**
 
-![Node.js](https://img.shields.io/badge/Node.js-0a0514?style=for-the-badge&logo=nodedotjs&logoColor=9b6de0)
-![Supabase](https://img.shields.io/badge/Supabase-0a0514?style=for-the-badge&logo=supabase&logoColor=9b6de0)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0514?style=for-the-badge&logo=postgresql&logoColor=c9a0ff)
+![Node.js](https://img.shields.io/badge/Node.js-161b22?style=for-the-badge&logo=nodedotjs&logoColor=3fb950)
+![Supabase](https://img.shields.io/badge/Supabase-161b22?style=for-the-badge&logo=supabase&logoColor=3fb950)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&logo=postgresql&logoColor=58a6ff)
 
-**Binding Vow — AI & APIs**
+**AI & APIs**
 
-![Claude](https://img.shields.io/badge/Claude_API-0a0514?style=for-the-badge&logoColor=9b6de0)
-![OpenAI](https://img.shields.io/badge/OpenAI-0a0514?style=for-the-badge&logo=openai&logoColor=9b6de0)
-![Deepgram](https://img.shields.io/badge/Deepgram-0a0514?style=for-the-badge&logoColor=c9a0ff)
-![Google Maps](https://img.shields.io/badge/Google_Maps_API-0a0514?style=for-the-badge&logo=googlemaps&logoColor=9b6de0)
+![Claude](https://img.shields.io/badge/Claude_API-161b22?style=for-the-badge&logoColor=7b4fd4)
+![OpenAI](https://img.shields.io/badge/OpenAI-161b22?style=for-the-badge&logo=openai&logoColor=c9d1d9)
+![Deepgram](https://img.shields.io/badge/Deepgram-161b22?style=for-the-badge&logoColor=58a6ff)
+![Google Maps](https://img.shields.io/badge/Google_Maps_API-161b22?style=for-the-badge&logo=googlemaps&logoColor=f85149)
 
-**Domain Expansion — Tools**
+**Tools**
 
-![Lovable](https://img.shields.io/badge/Lovable.dev-0a0514?style=for-the-badge&logoColor=9b6de0)
-![Figma](https://img.shields.io/badge/Figma-0a0514?style=for-the-badge&logo=figma&logoColor=c9a0ff)
-![Git](https://img.shields.io/badge/Git-0a0514?style=for-the-badge&logo=git&logoColor=9b6de0)
-![VS Code](https://img.shields.io/badge/VS_Code-0a0514?style=for-the-badge&logo=visualstudiocode&logoColor=9b6de0)
+![Lovable](https://img.shields.io/badge/Lovable.dev-161b22?style=for-the-badge&logoColor=b388ff)
+![Figma](https://img.shields.io/badge/Figma-161b22?style=for-the-badge&logo=figma&logoColor=f85149)
+![Git](https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=f85149)
+![VS Code](https://img.shields.io/badge/VS_Code-161b22?style=for-the-badge&logo=visualstudiocode&logoColor=58a6ff)
 
 ---
 
-<div align="center">
-<h3>〔 縛り 〕 GitHub Stats</h3>
-</div>
+## 📊 // github_stats 特
 
 <div align="center">
 
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=adityaduggiralaonein-dot&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0a0514&title_color=c9a0ff&icon_color=9b6de0&text_color=b0a0c0" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=adityaduggiralaonein-dot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
 &nbsp;
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=adityaduggiralaonein-dot&layout=compact&hide_border=true&langs_count=8&bg_color=0a0514&title_color=c9a0ff&text_color=b0a0c0" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=adityaduggiralaonein-dot&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=adityaduggiralaonein-dot&hide_border=true&background=0a0514&ring=9b6de0&fire=c9a0ff&currStreakLabel=c9a0ff&sideLabels=6a4a9a&dates=b0a0c0&stroke=3a2060" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=adityaduggiralaonein-dot&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-<div align="center">
-<h3>〔 特級 〕 Special Grade Trophies</h3>
-</div>
+## 🏆 // trophies 蛇
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=adityaduggiralaonein-dot&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=adityaduggiralaonein-dot&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 
 </div>
 
 ---
 
-<div align="center">
-<h3>〔 蛇 〕 Cursed Spirit — Contribution Snake</h3>
-</div>
+## 🐍 // contribution_snake
 
 <div align="center">
 
@@ -149,7 +137,7 @@ sorcerer = {
 </div>
 
 <details>
-<summary>⚙️ Snake setup — click to expand</summary>
+<summary>⚙️ Snake setup</summary>
 
 Create `.github/workflows/snake.yml`:
 
@@ -179,7 +167,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-**Settings → Actions → General → Read and write permissions → Save → Actions tab → Run workflow**
+**Settings → Actions → General → Read and write permissions → Save → Actions → Run workflow**
 
 </details>
 
@@ -187,9 +175,9 @@ jobs:
 
 <div align="center">
 
-*「 Ship fast. Learn faster. Build for real people. 」*
+> *"Ship fast. Learn faster. Build for real people." — 縛*
 
-[![LinkedIn](https://img.shields.io/badge/Connect-0a0514?style=for-the-badge&logo=linkedin&logoColor=9b6de0)](https://www.linkedin.com/in/aditya-d-aa4635411/)
-[![X](https://img.shields.io/badge/Follow-0a0514?style=for-the-badge&logo=x&logoColor=9b6de0)](https://x.com/iaditya_offical)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/aditya-d-aa4635411/)
+[![X](https://img.shields.io/badge/Follow_on_X-161b22?style=for-the-badge&logo=x&logoColor=c9d1d9)](https://x.com/iaditya_offical)
 
 </div>
