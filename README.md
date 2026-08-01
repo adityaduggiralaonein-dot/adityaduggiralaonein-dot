@@ -1,119 +1,69 @@
-<!-- JJK THEME: CURSED ENERGY README -->
-
 <div align="center">
 
-<!-- Animated cursed energy header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=12,20,30&text=ADITYA&fontSize=90&fontColor=ffffff&stroke=7c3aed&strokeWidth=3&desc=Cursed%20Technique%3A%20Full%20Stack%20Output%20%E2%88%9E&descSize=18&descAlignY=75&animation=twinkling" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Aditya!+%F0%9F%91%8B;AI+%26+Full-Stack+App+Builder+%F0%9F%9A%80;Hackathon+Enthusiast+%F0%9F%8F%86;Building+for+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 
-</div>
-
----
-
-<div align="center">
-
-```
- ███████╗██╗   ██╗██████╗ ███████╗███████╗██████╗ 
- ██╔════╝██║   ██║██╔══██╗██╔════╝██╔════╝██╔══██╗
- ███████╗██║   ██║██████╔╝███████╗█████╗  ██║  ██║
- ╚════██║██║   ██║██╔══██╗╚════██║██╔══╝  ██║  ██║
- ███████║╚██████╔╝██║  ██║███████║███████╗██████╔╝
- ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚═════╝ 
-```
-
-### `「 Special Grade Sorcerer — AI & Full-Stack Domain 」`
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-d-aa4635411/)
 [![X](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iaditya_offical)
 [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pin.it/1EYHC2HvQ)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityaduggiralaonein-dot)
 
-![Profile Views](https://komarev.com/ghpvc/?username=adityaduggiralaonein-dot&label=Cursed+Energy+Observers&color=7c3aed&style=for-the-badge)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=adityaduggiralaonein-dot&label=Profile+Views&color=6E40C9&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/adityaduggiralaonein-dot?style=for-the-badge&color=6E40C9&labelColor=1a1b27&label=Followers)
 
 </div>
 
 ---
 
-## ☄️ Domain Expansion: `Infinite Void` — About Me
-
-<table>
-<tr>
-<td width="60%">
+## 👨‍💻 About Me
 
 ```python
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# SORCERER PROFILE  ✦  SPECIAL GRADE
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 aditya = {
-    "grade"       : "⚡ Special Grade Sorcerer",
-    "clan"        : "Hyderabad, India 🇮🇳",
-    "technique"   : "Cursed AI Output — Infinite Apps",
-    "building"    : "BeyondHuman Health AI 💪",
-    "affiliation" : "Jujutsu Tech (Lovable.dev)",
-    "cursed_tools": [
-        "React", "TypeScript", "Claude API",
-        "Supabase", "TailwindCSS", "Lovable"
+    "location"    : "Hyderabad, India 🇮🇳",
+    "role"        : "AI-Powered App Builder & Hackathon Enthusiast",
+    "building_now": "BeyondHuman — AI fitness & health platform 💪",
+    "shipped"     : [
+        "Bettle       → Social platform to reconnect with school/college/work",
+        "Nirogi AI    → Free preventive healthcare platform w/ 12 AI tools",
+        "Spectre      → AI crime analytics for Karnataka State Police",
+        "Static       → India EV & fuel trip planner",
+        "HyperMart    → AI-powered ecommerce platform",
+        "RemixMusicAI → AI music generation & remixing studio",
+        "DaVinci      → AI image generation & creative canvas",
     ],
-    "domains"     : [
-        "Consumer Tech", "Civic AI",
-        "Healthcare", "Fitness", "India-market"
-    ],
-    "philosophy"  : "Ship fast. Learn faster. 🩸"
+    "stack"       : ["React", "Lovable", "Claude API", "Supabase", "TypeScript"],
+    "interests"   : ["Consumer Tech", "Civic AI", "Healthcare", "Fitness", "Music"],
+    "ask_me"      : ["AI Products", "Hackathons", "India-market apps", "Lovable.dev"],
 }
 ```
 
-</td>
-<td width="40%" align="center">
-
-```
-    ╔═══════════════════╗
-    ║   CURSED ENERGY   ║
-    ║   LEVEL: ∞∞∞∞∞   ║
-    ╠═══════════════════╣
-    ║  ██████████ 100%  ║ AI
-    ║  █████████░  90%  ║ React
-    ║  ████████░░  85%  ║ TypeScript  
-    ║  ███████░░░  80%  ║ Supabase
-    ║  ██████░░░░  75%  ║ Node.js
-    ╠═══════════════════╣
-    ║  "Throughout      ║
-    ║   Heaven & Earth, ║
-    ║   I alone am the  ║
-    ║   honored one."   ║
-    ╚═══════════════════╝
-```
-
-</td>
-</tr>
-</table>
-
 ---
 
-## 👁️ Gojo's Six Eyes: `Live Projects`
-
-> *"The strong should help the weak... these apps help everyone."*
+## 🚀 Live Projects
 
 <div align="center">
 
-| Cursed Technique | Project | Binding Vow | Status |
-|:---:|:---|:---|:---:|
-| ♾️ **Infinity** | [**BeyondHuman Health AI**](https://beyondhuman-healthai.lovable.app) | Limitless AI fitness coaching — nothing gets through | 🔨 Manifesting |
-| 🛒 **Red** | [**HyperMart**](https://hypermart.lovable.app) | Hollow Purple — AI-powered ecommerce | ✅ Unleashed |
-| 🎵 **Blue** | [**RemixMusicAI**](https://remixmusicai.lovable.app) | Reverse: summons music from nothing | ✅ Unleashed |
-| 🎨 **Purple** | [**DaVinci Canvas AI**](https://davinci-canvasai.lovable.app) | Imaginary technique: renders what doesn't exist | ✅ Unleashed |
-| 🐞 **Cursed Tool** | [**Bettle**](https://bettle-creativeai.lovable.app) | Reconnects severed soul ties — school, college, work | ✅ Unleashed |
-| 🏥 **Reverse Cursed** | [**Nirogi AI**](https://nirogi-healthai.lovable.app) | Heals India with 12 cursed health tools | ✅ Unleashed |
-| 🚔 **Binding Vow** | [**Spectre**](https://spectre-crimeai.lovable.app) | KSP Datathon 2026 — crime before it happens | ✅ Unleashed |
-| ⚡ **Simple Domain** | [**Static**](https://static-chargepoint.lovable.app) | India EV trip planner — maps every charge point | ✅ Unleashed |
+| | Project | Description | Status |
+|--|---------|-------------|--------|
+| 💪 | [**BeyondHuman Health AI**](https://beyondhuman-healthai.lovable.app) | AI fitness & health coaching platform | 🔨 Building |
+| 🛒 | [**HyperMart**](https://hypermart.lovable.app) | AI-powered ecommerce platform | ✅ Live |
+| 🎵 | [**RemixMusicAI**](https://remixmusicai.lovable.app) | AI music generation & remixing studio | ✅ Live |
+| 🎨 | [**DaVinci Canvas AI**](https://davinci-canvasai.lovable.app) | AI image generation & creative canvas | ✅ Live |
+| 🐞 | [**Bettle**](https://bettle-creativeai.lovable.app) | Social reconnect — schools, colleges, workplaces | ✅ Live |
+| 🏥 | [**Nirogi AI**](https://nirogi-healthai.lovable.app) | 12-tool preventive healthcare for India | ✅ Live |
+| 🚔 | [**Spectre**](https://spectre-crimeai.lovable.app) | AI crime analytics — KSP Datathon 2026 | ✅ Live |
+| ⚡ | [**Static**](https://static-chargepoint.lovable.app) | India EV & fuel trip planner | ✅ Live |
 
 </div>
 
 ---
 
-## 🗡️ Toji's Arsenal: `Tech Stack`
-> *"No cursed energy. Just pure, overwhelming power."*
+## 🛠️ Tech Stack
 
-**⚔️ Slaughter Demon — Frontend**
+**App Building & Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -122,20 +72,20 @@ aditya = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-**🔗 Inverted Spear of Heaven — Backend**
+**Backend & Database**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**👁️ Six Eyes — AI & APIs**
+**AI & APIs**
 
 ![Claude](https://img.shields.io/badge/Claude_API-6E40C9?style=for-the-badge&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Deepgram](https://img.shields.io/badge/Deepgram-101010?style=for-the-badge&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-**📜 Heavenly Restriction — Tools & Platforms**
+**Tools & Platforms**
 
 ![Lovable](https://img.shields.io/badge/Lovable.dev-FF6B6B?style=for-the-badge&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -144,37 +94,35 @@ aditya = {
 
 ---
 
-## 🌑 Megumi's Ten Shadows: `GitHub Stats`
-
-> *"I'll use my trump card... my stats don't lie."*
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=adityaduggiralaonein-dot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d0d1a&title_color=7c3aed&icon_color=a855f7&text_color=c4b5fd&border_color=7c3aed" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=adityaduggiralaonein-dot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
 &nbsp;
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=adityaduggiralaonein-dot&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d0d1a&title_color=7c3aed&text_color=c4b5fd" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=adityaduggiralaonein-dot&theme=tokyonight&hide_border=true&background=0d0d1a&ring=7c3aed&fire=a855f7&currStreakLabel=c4b5fd" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=adityaduggiralaonein-dot&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
-
----
-
-## 🏆 Culling Game: `Trophies`
-
-> *"Each colony won. Each trophy earned in blood and code."*
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=adityaduggiralaonein-dot&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=adityaduggiralaonein-dot&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🐍 Cursed Womb — Contribution Snake
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/adityaduggiralaonein-dot/adityaduggiralaonein-dot/output/trophy.svg" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -191,41 +139,11 @@ aditya = {
 
 ---
 
-## 📈 Culling Game Scoreboard: `Activity`
+## 📈 Activity Graph
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityaduggiralaonein-dot&theme=tokyo-night&hide_border=true&area=true&bg_color=0d0d1a&color=a855f7&line=7c3aed&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🩸 The Three Sorcerers
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   GOJO SATORU          MEGUMI FUSHIGURO        TOJI FUSHIGURO      │
-│   ────────────         ───────────────         ──────────────       │
-│   "Six Eyes"           "Ten Shadows"           "Sorcerer Killer"   │
-│                                                                     │
-│   Vision so clear      Summons solutions       No cursed energy,   │
-│   he sees every        from shadows when       pure physical        │
-│   bug at once.         deadline hits.          output. Ships        │
-│                                                                     │
-│   Technique:           Technique:              at 3AM anyway.      │
-│   Infinite Void        Divine Dogs                                  │
-│   (Frontend)           (Backend Shadow)        Technique:          │
-│                                                Zero-Skill Builds   │
-│   Stack: React,        Stack: Supabase,        (Lovable.dev 🔥)    │
-│   TypeScript,          PostgreSQL,                                  │
-│   TailwindCSS          Node.js                 Stack: Speed,        │
-│                                                Deadlines, Coffee   │
-└─────────────────────────────────────────────────────────────────────┘
-```
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityaduggiralaonein-dot&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -233,11 +151,15 @@ aditya = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer&text=Let%27s%20build%20something%20for%20India%20%F0%9F%87%AE%F0%9F%87%B3&fontSize=20&fontColor=a855f7&animation=twinkling" />
+### 💬 Let's connect and build something for India 🇮🇳
 
-### 💬 *"Throughout Heaven and Earth, I alone will ship for India."*
+*"Ship fast. Learn faster. Build for real people."*
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-d-aa4635411/)
 [![X](https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iaditya_offical)
 
 </div>
+
+
