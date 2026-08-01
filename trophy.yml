@@ -2,7 +2,7 @@ name: Generate Trophy
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # once a day
   workflow_dispatch:
 
 jobs:
@@ -12,7 +12,8 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Generate Trophy
         uses: soulteary/github-profile-trophy-action@v1.0.0
@@ -20,6 +21,7 @@ jobs:
           options: "username=adityaduggiralaonein-dot&theme=tokyonight&column=7&margin-w=8&title=-Reviews"
           path: dist/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          # version: latest   # optional – try this if the binary is outdated
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v4
