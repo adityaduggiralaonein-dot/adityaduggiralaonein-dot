@@ -1,163 +1,189 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Aditya!+%F0%9F%91%8B;AI+%26+Full-Stack+App+Builder+%F0%9F%9A%80;Hackathon+Enthusiast+%F0%9F%8F%86;Building+for+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=C77DFF&center=true&vCenter=true&width=750&lines=Domain+Expansion...;Jujutsu+Kaisen+%E2%9A%A1;Cursed+Energy+Flowing;Gojo+Satoru+was+here;Are+you+a+sorcerer%3F" alt="Typing SVG" />
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-d-aa4635411/)
-[![X](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iaditya_offical)
-[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pin.it/1EYHC2HvQ)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityaduggiralaonein-dot)
+[![Jujutsu Kaisen](https://img.shields.io/badge/Jujutsu_Kaisen-C77DFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMiAyMmg0bDYtMTAgNiAxMGg0TDEyIDJ6Ii8+PC9zdmc+&logoColor=white)](https://jujutsukaisen.fandom.com/wiki/Jujutsu_Kaisen_Wiki)
+[![Manga](https://img.shields.io/badge/Manga-Completed-00C853?style=for-the-badge)](https://jujutsukaisen.fandom.com)
+[![Anime](https://img.shields.io/badge/Anime-Season_3_Soon-FF6B6B?style=for-the-badge)](https://jujutsukaisen.fandom.com)
+[![Cursed Energy](https://img.shields.io/badge/Cursed_Energy-∞-9C27B0?style=for-the-badge)](https://jujutsukaisen.fandom.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=adityaduggiralaonein-dot&label=Profile+Views&color=6E40C9&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/adityaduggiralaonein-dot?style=for-the-badge&color=6E40C9&labelColor=1a1b27&label=Followers)
+![Profile Views](https://komarev.com/ghpvc/?username=jujutsu-kaisen&label=Cursed+Views&color=C77DFF&style=for-the-badge)
+![Sorcerers](https://img.shields.io/badge/Sorcerers-Grade_1+-C77DFF?style=for-the-badge&labelColor=1a1b27)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🩸 About the World of Jujutsu
 
 ```python
-aditya = {
-    "location"    : "Hyderabad, India 🇮🇳",
-    "role"        : "AI-Powered App Builder & Hackathon Enthusiast",
-    "building_now": "BeyondHuman — AI fitness & health platform 💪",
-    "shipped"     : [
-        "Bettle       → Social platform to reconnect with school/college/work",
-        "Nirogi AI    → Free preventive healthcare platform w/ 12 AI tools",
-        "Spectre      → AI crime analytics for Karnataka State Police",
-        "Static       → India EV & fuel trip planner",
-        "HyperMart    → AI-powered ecommerce platform",
-        "RemixMusicAI → AI music generation & remixing studio",
-        "DaVinci      → AI image generation & creative canvas",
+jujutsu_kaisen = {
+    "location"     : "Tokyo, Japan 🇯🇵 (and beyond)",
+    "core_concept" : "Curses born from negative human emotions",
+    "main_goal"    : "Exorcise curses & protect humanity",
+    "strongest"    : "Satoru Gojo — The Honored One",
+    "protagonist"  : "Yuji Itadori — Vessel of Sukuna",
+    "key_factions" : [
+        "Tokyo Jujutsu High",
+        "Kyoto Jujutsu High",
+        "Special Grade Curses",
+        "The Higher-Ups",
+        "Culling Game Players",
     ],
-    "stack"       : ["React", "Lovable", "Claude API", "Supabase", "TypeScript"],
-    "interests"   : ["Consumer Tech", "Civic AI", "Healthcare", "Fitness", "Music"],
-    "ask_me"      : ["AI Products", "Hackathons", "India-market apps", "Lovable.dev"],
+    "power_system" : ["Cursed Energy", "Innate Techniques", "Domain Expansion", "Black Flash"],
+    "vibe"         : "Dark, intense, stylish, tragic & peak fiction",
 }
 ```
 
 ---
 
-## 🚀 Live Projects
+## ⚔️ Main Characters
 
 <div align="center">
 
-| | Project | Description | Status |
-|--|---------|-------------|--------|
-| 💪 | [**BeyondHuman Health AI**](https://beyondhuman-healthai.lovable.app) | AI fitness & health coaching platform | 🔨 Building |
-| 🛒 | [**HyperMart**](https://hypermart.lovable.app) | AI-powered ecommerce platform | ✅ Live |
-| 🎵 | [**RemixMusicAI**](https://remixmusicai.lovable.app) | AI music generation & remixing studio | ✅ Live |
-| 🎨 | [**DaVinci Canvas AI**](https://davinci-canvasai.lovable.app) | AI image generation & creative canvas | ✅ Live |
-| 🐞 | [**Bettle**](https://bettle-creativeai.lovable.app) | Social reconnect — schools, colleges, workplaces | ✅ Live |
-| 🏥 | [**Nirogi AI**](https://nirogi-healthai.lovable.app) | 12-tool preventive healthcare for India | ✅ Live |
-| 🚔 | [**Spectre**](https://spectre-crimeai.lovable.app) | AI crime analytics — KSP Datathon 2026 | ✅ Live |
-| ⚡ | [**Static**](https://static-chargepoint.lovable.app) | India EV & fuel trip planner | ✅ Live |
+| | Character | Role | Technique / Trait | Grade |
+|--|-----------|------|-------------------|-------|
+| 👊 | **Yuji Itadori** | Protagonist / Vessel | Superhuman strength, Divergent Fist, Black Flash | Special |
+| 👁️ | **Satoru Gojo** | The Strongest | Limitless + Six Eyes, Unlimited Void | Special |
+| 🐺 | **Megumi Fushiguro** | Deuteragonist | Ten Shadows Technique | Grade 1 |
+| 🔨 | **Nobara Kugisaki** | Core Trio | Straw Doll Technique | Grade 3 → 1 |
+| 🔥 | **Yuta Okkotsu** | Special Grade | Rika (Queen of Curses), Copy | Special |
+| 🦊 | **Maki Zenin** | Heavenly Restriction | Pure physical combat, Split Soul Katana | Grade 1 |
+| 🌀 | **Toge Inumaki** | Support | Cursed Speech | Semi-Grade 1 |
+| 🐼 | **Panda** | Support | Cursed Corpse / Three Cores | Semi-Grade 1 |
+| 👑 | **Ryomen Sukuna** | King of Curses | Malevolent Shrine, Dismantle & Cleave | Special |
+| 🩸 | **Suguru Geto** | Antagonist (past) | Cursed Spirit Manipulation | Special |
+| 🕶️ | **Toji Fushiguro** | Heavenly Restriction | Zero cursed energy, pure assassin | — |
+| 🧵 | **Mahito** | Disaster Curse | Idle Transfiguration | Special |
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🌌 Signature Techniques
 
-**App Building & Frontend**
+**Domain Expansions**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Unlimited Void](https://img.shields.io/badge/Unlimited_Void-Gojo-00E5FF?style=for-the-badge)
+![Malevolent Shrine](https://img.shields.io/badge/Malevolent_Shrine-Sukuna-FF1744?style=for-the-badge)
+![Chimera Shadow Garden](https://img.shields.io/badge/Chimera_Shadow_Garden-Megumi-7C4DFF?style=for-the-badge)
+![Self-Embodiment of Perfection](https://img.shields.io/badge/Self--Embodiment_of_Perfection-Mahito-E040FB?style=for-the-badge)
+![Authentic Mutual Love](https://img.shields.io/badge/Authentic_Mutual_Love-Yuta-FF6D00?style=for-the-badge)
 
-**Backend & Database**
+**Cursed Techniques & Abilities**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**AI & APIs**
-
-![Claude](https://img.shields.io/badge/Claude_API-6E40C9?style=for-the-badge&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Deepgram](https://img.shields.io/badge/Deepgram-101010?style=for-the-badge&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-**Tools & Platforms**
-
-![Lovable](https://img.shields.io/badge/Lovable.dev-FF6B6B?style=for-the-badge&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Limitless](https://img.shields.io/badge/Limitless-Gojo-00B0FF?style=for-the-badge)
+![Ten Shadows](https://img.shields.io/badge/Ten_Shadows-Megumi-5E35B1?style=for-the-badge)
+![Straw Doll](https://img.shields.io/badge/Straw_Doll-Nobara-FF4081?style=for-the-badge)
+![Cursed Speech](https://img.shields.io/badge/Cursed_Speech-Inumaki-00C853?style=for-the-badge)
+![Black Flash](https://img.shields.io/badge/Black_Flash-0.000001s-212121?style=for-the-badge)
+![Reverse Cursed Technique](https://img.shields.io/badge/Reverse_Cursed_Technique-Healing-00E676?style=for-the-badge)
 
 ---
 
-## 📊 GitHub Stats
+## 🏫 Tokyo Jujutsu High — Core Squad
 
 <div align="center">
 
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=adityaduggiralaonein-dot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-&nbsp;
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=adityaduggiralaonein-dot&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=adityaduggiralaonein-dot&theme=tokyonight&hide_border=true" />
+| Member | Specialty | Status |
+|--------|-----------|--------|
+| **Satoru Gojo** | Sensei / The Strongest | Sealed → Unsealed |
+| **Yuji Itadori** | Physical powerhouse + Sukuna vessel | Active |
+| **Megumi Fushiguro** | Strategic shikigami user | Active |
+| **Nobara Kugisaki** | Mid-range cursed tool specialist | Active |
+| **Yuta Okkotsu** | Special Grade prodigy | Active |
+| **Maki Zenin** | Heavenly Restriction fighter | Active |
+| **Toge Inumaki** | Cursed Speech support | Active |
+| **Panda** | Cursed corpse combatant | Active |
+| **Shoko Ieiri** | Reverse Cursed Technique doctor | Active |
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 💀 Special Grade Curses & Threats
+
+```text
+Disaster Curses:
+├── Jogo      → Volcano / Extreme heat
+├── Hanami    → Plant / Nature
+├── Dagon     → Ocean / Domain
+└── Mahito    → Soul / Idle Transfiguration
+
+Other Major Threats:
+├── Ryomen Sukuna   → King of Curses (20 fingers)
+├── Kenjaku         → Body hopper / Mastermind
+├── Toji Fushiguro  → The Sorcerer Killer
+└── Culling Game    → Deadly battle royale
+```
+
+---
+
+## 📊 Cursed Energy Stats (Fan Ranking)
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=adityaduggiralaonein-dot&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+| Rank | Character              | Cursed Energy | Domain | Overall Threat |
+|------|------------------------|---------------|--------|----------------|
+| 1    | **Ryomen Sukuna**      | ∞             | Yes    | God-tier       |
+| 2    | **Satoru Gojo**        | Extremely High| Yes    | God-tier       |
+| 3    | **Yuta Okkotsu**       | Extremely High| Yes    | Special        |
+| 4    | **Kenjaku**            | Very High     | Yes    | Special        |
+| 5    | **Yuji Itadori**       | High + Potential | Developing | Rising       |
+| 6    | **Megumi Fushiguro**   | High          | Yes    | Grade 1+       |
+| 7    | **Mahito**             | High          | Yes    | Special        |
+| 8    | **Toji Fushiguro**     | None (HR)     | No     | Special        |
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🔥 Iconic Moments
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/adityaduggiralaonein-dot/adityaduggiralaonein-dot/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/adityaduggiralaonein-dot/adityaduggiralaonein-dot/output/github-snake.svg" />
-  <img alt="github contribution snake"
-    src="https://raw.githubusercontent.com/adityaduggiralaonein-dot/adityaduggiralaonein-dot/output/github-snake.svg" />
-</picture>
-
-</div>
+- **"Throughout Heaven and Earth, I Alone Am The Honored One."** — Gojo
+- Yuji vs Mahito (Shibuya)
+- Gojo vs Toji (Hidden Inventory)
+- Sukuna vs Mahoraga
+- Domain Expansion clashes
+- The Culling Game begins
+- Gojo's return
 
 ---
 
-## 📈 Activity Graph
+## 🎨 Aesthetic & Vibe
 
-<div align="center">
+**Color Palette**
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityaduggiralaonein-dot&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Purple](https://img.shields.io/badge/-Cursed_Purple-C77DFF?style=for-the-badge)
+![Black](https://img.shields.io/badge/-Shadow_Black-121212?style=for-the-badge)
+![Red](https://img.shields.io/badge/-Blood_Red-FF1744?style=for-the-badge)
+![Cyan](https://img.shields.io/badge/-Limitless_Cyan-00E5FF?style=for-the-badge)
 
-</div>
+**Themes**
+- Cursed Energy flowing through every battle
+- Beautiful animation & raw emotion
+- Moral gray areas and tragic backstories
+- Peak fight choreography
 
 ---
 
 <div align="center">
 
-### 💬 Let's connect and build something for India 🇮🇳
+### ⚔️ Are you a Jujutsu Sorcerer?
 
-*"Ship fast. Learn faster. Build for real people."*
+*"The only way to truly escape the curse... is to face it."*
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-d-aa4635411/)
-[![X](https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iaditya_offical)
+[![Wiki](https://img.shields.io/badge/Explore_the_Wiki-C77DFF?style=for-the-badge)](https://jujutsukaisen.fandom.com/wiki/Jujutsu_Kaisen_Wiki)
+[![Manga](https://img.shields.io/badge/Read_the_Manga-FF6B6B?style=for-the-badge)](https://jujutsukaisen.fandom.com)
+
+<br/>
+
+**Domain Expansion: Infinite README**
 
 </div>
