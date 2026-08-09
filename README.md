@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Aditya!+%F0%9F%91%8B;AI+%26+Full-Stack+App+Builder+%F0%9F%9A%80;Hackathon+Enthusiast+%F0%9F%8F%86;Building+for+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&width=750&lines=Hey+there%2C+I'm+Aditya+Duggirala+%F0%9F%91%8B;AI+%26+Full-Stack+App+Builder+%F0%9F%9A%80;Hackathon+Enthusiast+%F0%9F%8F%86;Shipping+AI+Products+for+India+%F0%9F%87%AE%F0%9F%87%B3;Solo+Builder+%C3%97+Claude+API+%C3%97+Lovable.dev" alt="Typing SVG" />
 
-<br/><br/>
+</div>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-d-aa4635411/)
 [![X](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iaditya_offical)
@@ -34,11 +36,21 @@ aditya = {
         "RemixMusicAI → AI music generation & remixing studio",
         "DaVinci      → AI image generation & creative canvas",
     ],
-    "stack"       : ["React", "Lovable", "Claude API", "Supabase", "TypeScript"],
+    "stack"       : ["React", "Lovable.dev", "Claude API", "Supabase", "TypeScript"],
     "interests"   : ["Consumer Tech", "Civic AI", "Healthcare", "Fitness", "Music"],
     "ask_me"      : ["AI Products", "Hackathons", "India-market apps", "Lovable.dev"],
 }
 ```
+
+- 🚀 Solo builder shipping full-stack AI apps fast with **Lovable** + **Claude API**
+- 🏥 **Nirogi AI** — 12-tool free preventive healthcare platform built for India
+- 🚔 **Spectre** — AI crime intelligence dashboard for Karnataka State Police (KSP Datathon 2026)
+- 🛒 **HyperMart** — Full AI-powered ecommerce experience
+- 🎵 **RemixMusicAI** — AI music generation & remixing studio
+- 🎨 **DaVinci Canvas AI** — AI image generation & editing canvas
+- ⚡ **Static** — Multi-stop EV & fuel trip planner for India
+- 🐞 **Bettle** — The social app to reconnect with your past (schools, colleges, workplaces)
+- 💪 **BeyondHuman** *(currently building)* — AI fitness & health coaching platform
 
 ---
 
@@ -47,13 +59,13 @@ aditya = {
 <div align="center">
 
 | | Project | Description | Status |
-|--|---------|-------------|--------|
+|:--:|---------|-------------|:------:|
 | 💪 | [**BeyondHuman Health AI**](https://beyondhuman-healthai.lovable.app) | AI fitness & health coaching platform | 🔨 Building |
 | 🛒 | [**HyperMart**](https://hypermart.lovable.app) | AI-powered ecommerce platform | ✅ Live |
 | 🎵 | [**RemixMusicAI**](https://remixmusicai.lovable.app) | AI music generation & remixing studio | ✅ Live |
 | 🎨 | [**DaVinci Canvas AI**](https://davinci-canvasai.lovable.app) | AI image generation & creative canvas | ✅ Live |
 | 🐞 | [**Bettle**](https://bettle-creativeai.lovable.app) | Social reconnect — schools, colleges, workplaces | ✅ Live |
-| 🏥 | [**Nirogi AI**](https://nirogi-healthai.lovable.app) | 12-tool preventive healthcare for India | ✅ Live |
+| 🏥 | [**Nirogi AI**](https://nirogi-healthai.lovable.app) | 12-tool preventive healthcare platform for India | ✅ Live |
 | 🚔 | [**Spectre**](https://spectre-crimeai.lovable.app) | AI crime analytics — KSP Datathon 2026 | ✅ Live |
 | ⚡ | [**Static**](https://static-chargepoint.lovable.app) | India EV & fuel trip planner | ✅ Live |
 
@@ -116,7 +128,7 @@ aditya = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=adityaduggiralaonein-dot&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=adityaduggiralaonein-dot&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=-1" />
 
 </div>
 
