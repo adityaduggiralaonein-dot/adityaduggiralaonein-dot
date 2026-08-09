@@ -1,11 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&width=750&lines=Hey+there%2C+I'm+Aditya+Duggirala+%F0%9F%91%8B;AI+%26+Full-Stack+App+Builder+%F0%9F%9A%80;Hackathon+Enthusiast+%F0%9F%8F%86;Shipping+AI+Products+for+India+%F0%9F%87%AE%F0%9F%87%B3;Solo+Builder+%C3%97+Claude+API+%C3%97+Lovable.dev" alt="Typing SVG" />
+<!-- Animated header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aditya%20Duggirala&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Full-Stack%20App%20Builder%20%7C%20Hyderabad%2C%20India%20🇮🇳&descAlignY=55&descSize=16"/>
 
-</div>
+<!-- Typing SVG — white, cycling through roles -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Aditya+%F0%9F%91%8B;AI+%26+Full-Stack+App+Builder+%F0%9F%9A%80;Hackathon+Enthusiast+%F0%9F%8F%86;Shipping+AI+Products+for+India+%F0%9F%87%AE%F0%9F%87%B3;Solo+Builder+%C3%97+Claude+API+%C3%97+Lovable.dev;8+Live+Apps+and+counting...+%F0%9F%9A%80" alt="Typing SVG" />
 
-<div align="center">
+<br/>
 
+<!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-d-aa4635411/)
 [![X](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iaditya_offical)
 [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pin.it/1EYHC2HvQ)
@@ -23,34 +26,31 @@
 ## 👨‍💻 About Me
 
 ```python
-aditya = {
-    "location"    : "Hyderabad, India 🇮🇳",
-    "role"        : "AI-Powered App Builder & Hackathon Enthusiast",
-    "building_now": "BeyondHuman — AI fitness & health platform 💪",
-    "shipped"     : [
-        "Bettle       → Social platform to reconnect with school/college/work",
-        "Nirogi AI    → Free preventive healthcare platform w/ 12 AI tools",
-        "Spectre      → AI crime analytics for Karnataka State Police",
-        "Static       → India EV & fuel trip planner",
-        "HyperMart    → AI-powered ecommerce platform",
-        "RemixMusicAI → AI music generation & remixing studio",
-        "DaVinci      → AI image generation & creative canvas",
-    ],
-    "stack"       : ["React", "Lovable.dev", "Claude API", "Supabase", "TypeScript"],
-    "interests"   : ["Consumer Tech", "Civic AI", "Healthcare", "Fitness", "Music"],
-    "ask_me"      : ["AI Products", "Hackathons", "India-market apps", "Lovable.dev"],
-}
+class Aditya:
+    name       = "Aditya Duggirala"
+    location   = "Hyderabad, India 🇮🇳"
+    role       = "AI-Powered App Builder & Hackathon Enthusiast"
+    building   = "BeyondHuman — AI fitness & health platform 💪"
+    stack      = ["React", "TypeScript", "Lovable.dev", "Claude API", "Supabase"]
+    interests  = ["Consumer Tech", "Civic AI", "Healthcare", "Fitness", "Music"]
+    shipped    = 8   # live apps and counting
+    ask_me     = ["AI Products", "Hackathons", "India-market apps", "Lovable.dev"]
+    fun_fact   = "I turn hackathon ideas into live products in days, not months 🚀"
 ```
 
-- 🚀 Solo builder shipping full-stack AI apps fast with **Lovable** + **Claude API**
-- 🏥 **Nirogi AI** — 12-tool free preventive healthcare platform built for India
-- 🚔 **Spectre** — AI crime intelligence dashboard for Karnataka State Police (KSP Datathon 2026)
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+- 🚀 Solo builder shipping full-stack AI apps with **Lovable** + **Claude API**
+- 🏥 **Nirogi AI** — 12-tool free preventive healthcare built for India
+- 🚔 **Spectre** — AI crime intelligence for Karnataka State Police (KSP Datathon 2026)
 - 🛒 **HyperMart** — Full AI-powered ecommerce experience
 - 🎵 **RemixMusicAI** — AI music generation & remixing studio
-- 🎨 **DaVinci Canvas AI** — AI image generation & editing canvas
+- 🎨 **DaVinci Canvas AI** — AI image generation canvas
 - ⚡ **Static** — Multi-stop EV & fuel trip planner for India
-- 🐞 **Bettle** — The social app to reconnect with your past (schools, colleges, workplaces)
-- 💪 **BeyondHuman** *(currently building)* — AI fitness & health coaching platform
+- 🐞 **Bettle** — Social app to reconnect with your past
+- 💪 **BeyondHuman** *(building now)* — AI fitness & health coaching
+
+<br clear="right"/>
 
 ---
 
@@ -65,7 +65,7 @@ aditya = {
 | 🎵 | [**RemixMusicAI**](https://remixmusicai.lovable.app) | AI music generation & remixing studio | ✅ Live |
 | 🎨 | [**DaVinci Canvas AI**](https://davinci-canvasai.lovable.app) | AI image generation & creative canvas | ✅ Live |
 | 🐞 | [**Bettle**](https://bettle-creativeai.lovable.app) | Social reconnect — schools, colleges, workplaces | ✅ Live |
-| 🏥 | [**Nirogi AI**](https://nirogi-healthai.lovable.app) | 12-tool preventive healthcare platform for India | ✅ Live |
+| 🏥 | [**Nirogi AI**](https://nirogi-healthai.lovable.app) | 12-tool preventive healthcare for India | ✅ Live |
 | 🚔 | [**Spectre**](https://spectre-crimeai.lovable.app) | AI crime analytics — KSP Datathon 2026 | ✅ Live |
 | ⚡ | [**Static**](https://static-chargepoint.lovable.app) | India EV & fuel trip planner | ✅ Live |
 
@@ -74,6 +74,8 @@ aditya = {
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 **App Building & Frontend**
 
@@ -103,6 +105,8 @@ aditya = {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
@@ -134,6 +138,16 @@ aditya = {
 
 ---
 
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityaduggiralaonein-dot&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -151,17 +165,10 @@ aditya = {
 
 ---
 
-## 📈 Activity Graph
-
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityaduggiralaonein-dot&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
+<!-- Animated footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 ### 💬 Let's connect and build something for India 🇮🇳
 
@@ -173,4 +180,6 @@ aditya = {
 [![X](https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iaditya_offical)
 
 </div>
+
+
 
