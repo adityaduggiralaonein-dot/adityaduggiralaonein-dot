@@ -40,9 +40,7 @@ aditya = {
     "interests"   : ["Consumer Tech", "Civic AI", "Healthcare", "Fitness", "Music"],
     "ask_me"      : ["AI Products", "Hackathons", "India-market apps", "Lovable.dev"],
 }
-```
-
-- 🚀 Solo builder shipping full-stack AI apps fast with **Lovable** + **Claude API**
+```- 🚀 Solo builder shipping full-stack AI apps fast with **Lovable** + **Claude API**
 - 🏥 **Nirogi AI** — 12-tool free preventive healthcare platform built for India
 - 🚔 **Spectre** — AI crime intelligence dashboard for Karnataka State Police (KSP Datathon 2026)
 - 🛒 **HyperMart** — Full AI-powered ecommerce experience
