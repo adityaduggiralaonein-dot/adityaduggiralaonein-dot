@@ -2,8 +2,8 @@ name: Generate Trophy
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # once a day
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # runs once a day
+  workflow_dispatch:        # allows manual trigger
 
 jobs:
   trophy:
@@ -18,16 +18,18 @@ jobs:
       - name: Generate Trophy
         uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
-          options: "username=adityaduggiralaonein-dot&theme=tokyonight&column=7&margin-w=8&title=-Reviews"
-          path: dist/trophy.svg
+          options: "username=adityaduggiralaonein-dot&theme=tokyonight&column=7&margin-w=15&no-frame=true&no-bg=true"
+          path: trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          # version: latest   # optional – try this if the binary is outdated
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+          publish_dir: .
           publish_branch: output
-          keep_files: true
+          force_orphan: true          # clean branch every time
           commit_message: "Update trophy [skip ci]"
+          exclude_assets: '**/*'
+          keep_files: false
+          
